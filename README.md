@@ -191,9 +191,3 @@ We thank the landscape architecture experts who participated in the quality cont
 <div align="center">
 
 **YAIG-mini — Bridging Computer Vision and Cultural Heritage** 🏯
-
-</div>
-
----
-
-> 本内容由 Coze AI 生成，请遵循相关法律法规及《人工智能生成合成内容标识办法》使用与传播。
