@@ -1,14 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191110102MACQD9K64018705
-    ProduceID: 7628902657591378182-data_volume/files/所有对话/主对话/README_YAIG_mini.md
-    ReservedCode1: ""
-    ContentPropagator: 001191110102MACQD9K64028705
-    PropagateID: 4193982937834411#1780483412837
-    ReservedCode2: ""
----
-<div align="center">
 
 # YAIG-mini 🏯
 
